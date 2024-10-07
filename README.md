@@ -39,5 +39,5 @@ Nedan finner du ett antal övningar med anime.js. För att lösa dem behöver du
 11. **Scroll**
       - **Mål**: Trigga olika animationer när man scrollar på sidan. Tips! Använd [onscroll](https://developer.mozilla.org/en-US/docs/Web/API/Element/scroll_event) i JS för att trigga animationerna.
    
-12. ** Landningssidan - Veckans Code Review-uppgift **
+12. **Landningssidan - Veckans Code Review-uppgift**
       - **Mål**: Skapa upp en väldigt enkel landningssida innehållandes minst 5 sektioner. Varje sektion skall ha olika innehåll tex bilder, listor, rubriker, knappar mm. Använd dig av ```IntersectionObserver``` för att animera in innehållet i en sektion, när sektionen finns i användarens synfält.
