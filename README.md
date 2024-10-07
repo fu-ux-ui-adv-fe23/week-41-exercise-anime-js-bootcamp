@@ -7,8 +7,7 @@ Nedan finner du ett antal övningar med anime.js. För att lösa dem behöver du
 ## Övningar
 
 1. **Glidande ruta**:
-
-**Mål**: När man klickar på en cirkel så ska den glida från vänster till höger över skärmen.
+- **Mål**: När man klickar på en cirkel så ska den glida från vänster till höger över skärmen.
 
 2. **Färgskiftande bakgrund**:
 - **Mål**: Ändra bakgrundsfärgen på ett element från blått till rött.
