@@ -19,47 +19,47 @@ Nedan finner du ett antal övningar med anime.js. För att lösa dem behöver du
 3. **Snurrande cirkel**:
 - **Mål**: Skapa en valfri laddningsanimation som roterar.
 
-  <hr>
+<hr>
 
 4. **Pulsande knapp**:
 - **Mål**: Skapa en knapp som pulserar genom att ändra storlek.
 
-  <hr>
+<hr>
 
 5. **Fallande stjärnor**:
 - **Mål**: Animera flera stjärnor som faller ner från toppen av skärmen.
 
-  <hr>
+<hr>
 
 6. **Fallande stjärnor level 2**:
 - **Mål**: Få stjärnorna att falla en och en (slumpa gärna ordningen också).
 
-  <hr>
+<hr>
 
 7. **SVG-bananimation**:
 - **Mål**: Få ett objekt att följa en kurvig SVG-bana. Tips! Kolla in `anime.path` i dokumentationen.
 
-  <hr>
+<hr>
 
 8. **Sekventiell animation**:
 - **Mål**: Skapa en animation med flera steg. Tips! Använd dig av keyframes i ditt animationsobjekt.
 
-  <hr>
+<hr>
 
 9. **Textskrivningseffekt**:
 - **Mål**: Skapa en skrivmaskinseffekt på text genom att dela upp en textsträng i enskilda bokstäver och animera dem en i taget med anime.js.
 
-  <hr>
+<hr>
 
 10. **Textskrivningseffekt Level 2**:
 - **Mål**: Låt användaren mata in en text som du därefter skapar en textskrivningseffekt på.
 
-  <hr>
+<hr>
 
 11. **Scroll**
 - **Mål**: Trigga olika animationer när man scrollar på sidan. Tips! Använd [onscroll](https://developer.mozilla.org/en-US/docs/Web/API/Element/scroll_event) eller [IntersectionObserver](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API) i JS för att trigga animationerna.
    
-  <hr>
+<hr>
 
 12. **Landningssidan - Veckans Code Review-uppgift**
 - **Mål**: Skapa upp en väldigt enkel landningssida innehållandes minst 5 sektioner. Varje sektion skall ha olika innehåll tex bilder, listor, rubriker, knappar mm. Använd dig av ```IntersectionObserver``` för att animera in innehållet i en sektion, när sektionen finns i användarens synfält.
